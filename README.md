@@ -1,6 +1,6 @@
 # Movie Recommender
  
- > Authors: [Erik Torres](https://github.com/eriktorres43), Ma Kenya Gonzalez Hernandez
+ > Authors: [Erik Torres](https://github.com/eriktorres43), Ma Kenya Gonzalez Hernandez(https://github.com/KenyaGH)
 
 ## Project Description
  > Your project description should summarize the project you are proposing. Be sure to include:
