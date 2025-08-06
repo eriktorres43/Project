@@ -7,7 +7,7 @@
 
    We chose this project because all of us tend not to know what to watch next. We often spend too much time looking through a list of movies rather than watching them, so categorizing movies and providing recommendations based on different criteria would be interesting.  
 
-   #**Input/Output**:
+**Input/Output**:
 
    Input:
 
