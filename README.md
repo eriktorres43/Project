@@ -14,7 +14,7 @@ Authors: [Erik Torres](https://github.com/eriktorres43), [Ma Kenya Gonzalez Hern
 
 ## Input/Output:
 
-   Input: User will input movie Title, genre, subgenre, director, actor(s), rating, or release date
+   Input: User will input Movie Title, Genre, Subgenre, Director, Actor(s), Rating, or Release Date
 
    Output: A list of recommended movies based on the initial inputs: Movie Title, Genre(s) and Sub-Genre(s), and Director and actor(s), sorted by Rating or Release Date.
  
