@@ -16,7 +16,7 @@ Authors: [Erik Torres](https://github.com/eriktorres43), [Ma Kenya Gonzalez Hern
 
    Input:
 
-   Output:
+   Output: A list of recommended movies based on the initial inputs: Movie Title, Genre(s) and Sub-Genre(s), and Director and actor(s), sorted by Rating or Release Date.
  
  > Your project description should summarize the project you are proposing. Be sure to include:
  > * Why is it important or interesting to you?
