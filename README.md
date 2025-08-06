@@ -4,6 +4,8 @@
 
 ## Project Description
    In this application movies are organized into categories and subcategories to represent their genres and subgenres respectively. The application allows displaying movies under different genres/subgenres or listing movies using different combined criteria (e.g. director and genre). A user can provide a name of a movie that he/she likes and the application can recommend a list of movies that the user might like. Different recommendation algorithms can be implemented (e.g. based on the movie genre, director, actors ) and the resulting recommendations can also be sorted based on their rating, release date, etc.
+
+   We chose this project because all of us tend not to know what to watch next. We often spend too much time looking through a list of movies rather than watching them, so categorizing movies and providing recommendations based on different criteria would be interesting.  
  
  > Your project description should summarize the project you are proposing. Be sure to include:
  > * Why is it important or interesting to you?
