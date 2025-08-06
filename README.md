@@ -1,6 +1,6 @@
 # Movie Recommender
  
- > Authors: [Erik Torres](https://github.com/eriktorres43), [Ma Kenya Gonzalez Hernandez](https://github.com/KenyaGH)
+ > Authors: [Erik Torres](https://github.com/eriktorres43), [Ma Kenya Gonzalez Hernandez](https://github.com/KenyaGH), [Jeffrey Vargas](https://github.com/jvarg153)
 
 ## Project Description
    In this application movies are organized into categories and subcategories to represent their genres and subgenres respectively. The application allows displaying movies under different genres/subgenres or listing movies using different combined criteria (e.g. director and genre). A user can provide a name of a movie that he/she likes and the application can recommend a list of movies that the user might like. Different recommendation algorithms can be implemented (e.g. based on the movie genre, director, actors ) and the resulting recommendations can also be sorted based on their rating, release date, etc.
